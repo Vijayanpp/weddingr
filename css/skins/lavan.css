@@ -24,7 +24,7 @@ body {
 }
 
 a {
-  color: #7b5da5;
+  color: #F44336;;
 }
 
 a:hover {
@@ -36,25 +36,25 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 ::-moz-selection {
-  background-color: #7b5da5;
+  background-color: #F44336;;
   color: #fff;
 }
 
 ::selection {
-  background-color: #7b5da5;
+  background-color: #F44336;;
   color: #fff;
 }
 
 .page-head-title i {
-  color: #7b5da5;
+  color: #F44336;;
 }
 
 .spacer hr {
-  border-top: 2px solid #7b5da5;
+  border-top: 2px solid #F44336;;
 }
 
 .spacer i {
-  color: #7b5da5;
+  color: #F44336;;
 }
 
 .spacer i.grey-icon {
@@ -67,27 +67,27 @@ hr {
 
 /** BUTTONS **/
 button.small-button, a.small-button, input.small-button[type="submit"] {
-  border: 2px solid #7b5da5;
-  background-color: #7b5da5;
+  border: 2px solid #F44336;;
+  background-color: #F44336;;
   color: #fff;
 }
 
 button.medium-button, a.medium-button, input.medium-button[type="submit"] {
-  border: 2px solid #7b5da5;
-  background-color: #7b5da5;
+  border: 2px solid #F44336;;
+  background-color: #F44336;;
   color: #fff;
 }
 
 button.large-button, a.large-button, input.large-button[type="submit"] {
-  border: 2px solid #7b5da5;
-  background-color: #7b5da5;
+  border: 2px solid #F44336;;
+  background-color: #F44336;;
   color: #fff;
 }
 
 button.small-button:hover, a.small-button:hover, input.small-button[type="submit"]:hover,
 button.medium-button:hover, a.medium-button:hover, input.medium-button[type="submit"]:hover,
 button.large-button:hover, a.large-button:hover, input.large-button[type="submit"]:hover {
-  border: 2px solid #7b5da5;
+  border: 2px solid #F44336;;
   color: #444444;
 }
 
@@ -109,25 +109,25 @@ button.large-button:hover, a.large-button:hover, input.large-button[type="submit
 }
 
 .bottom-border {
-  border-bottom: 3px solid #7b5da5;
+  border-bottom: 3px solid #F44336;;
 }
 
 /** ICONS **/
 .sharp-icon, a .outline-icon:hover {
-  background: #7b5da5;
+  background: #F44336;;
   color: #fff;
-  border: 2px solid #7b5da5;
+  border: 2px solid #F44336;;
 }
 
 .outline-icon, a .sharp-icon:hover {
   background: #fff;
-  color: #7b5da5;
-  border: 2px solid #7b5da5;
+  color: #F44336;;
+  border: 2px solid #F44336;;
 }
 
 /** COUNTDOWN **/
 .countdown-num span {
-  border: 3px solid #7b5da5;
+  border: 3px solid #F44336;;
   background-color: rgba(0, 0, 0, 0.5);
 }
 
@@ -147,10 +147,10 @@ button.large-button:hover, a.large-button:hover, input.large-button[type="submit
 
 .setting-icon {
   background-color: #fff;
-  color: #7b5da5;
-  border-top: 2px solid #7b5da5;
-  border-right: 2px solid #7b5da5;
-  border-bottom: 2px solid #7b5da5;
+  color: #F44336;;
+  border-top: 2px solid #F44336;;
+  border-right: 2px solid #F44336;;
+  border-bottom: 2px solid #F44336;;
 }
 
 span.pattern-swatches {
@@ -172,16 +172,16 @@ span.pattern-swatches {
 
 /** PROGRESS BAR **/
 .pace .pace-progress {
-  background: #7b5da5;
+  background: #F44336;;
 }
 
 /** HEADER **/
 .logo hr {
-  border-top: 2px solid #7b5da5;
+  border-top: 2px solid #F44336;;
 }
 
 .logo i {
-  color: #7b5da5;
+  color: #F44336;;
 }
 
 .logo i.grey-icon {
@@ -214,7 +214,7 @@ span.pattern-swatches {
 }
 
 .nav > li > a:focus, .nav > li > a:hover, .nav > li.active > a {
-  color: #7b5da5;
+  color: #F44336;;
   background-color: transparent;
 }
 
@@ -223,7 +223,7 @@ span.pattern-swatches {
 }
 
 .nav .open > a:focus, .nav .open > a:hover {
-  border-color: #7b5da5;
+  border-color: #F44336;;
 }
 
 .theme-dropdown {
@@ -243,16 +243,16 @@ span.pattern-swatches {
 }
 
 .theme-dropdown > li > a:focus, .theme-dropdown > li > a:hover {
-  color: #7b5da5;
+  color: #F44336;;
 }
 
 .theme-dropdown > .active > a, .theme-dropdown > .active > a:focus, .theme-dropdown > .active > a:hover {
-  color: #7b5da5;
+  color: #F44336;;
   background: transparent;
 }
 
 .navbar-toggle .icon-bar {
-  background-color: #7b5da5;
+  background-color: #F44336;;
 }
 
 /** SLIDER **/
@@ -266,7 +266,7 @@ span.pattern-swatches {
 }
 
 #main-slider .slider-content h2 i {
-  color: #7b5da5;
+  color: #F44336;;
 }
 
 #main-slider p.date {
@@ -279,20 +279,20 @@ span.pattern-swatches {
 }
 
 .owl-controls .owl-page span {
-  background: #7b5da5;
+  background: #F44336;;
 }
 
 /** RSVP FORM **/
 form input:focus, form textarea:focus {
-  border: 1px solid #7b5da5;
+  border: 1px solid #F44336;;
 }
 
 span.color-element {
-  color: #7b5da5;
+  color: #F44336;;
 }
 
 .help-block li {
-  background-color: #7b5da5;
+  background-color: #F44336;;
   color: #fff;
 }
 
@@ -335,14 +335,14 @@ footer.bottom p {
 
 /** PAGINATION **/
 span.page-numbers, a.page-numbers:hover {
-  background-color: #7b5da5;
-  border: 2px solid #7b5da5;
+  background-color: #F44336;;
+  border: 2px solid #F44336;;
   color: #fff;
 }
 
 a.page-numbers {
-  color: #7b5da5;
-  border: 2px solid #7b5da5;
+  color: #F44336;;
+  border: 2px solid #F44336;;
 }
 
 .coming-soon-modal, h6.modal-title {

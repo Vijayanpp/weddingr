@@ -1,11 +1,11 @@
 'use strict';
 
 /*====================================
-Project:     Lovely Time
-Author:      PotokProektov
+Project:     Remya Weds Prajith
+Author:      Vijayan PP
 Version:     1.0
 Last change: none
-Website:     http://abshar.by/lovely-time/
+Website:     http://www.adbcd.com
 ======================================*/
 
 /*---------------------- 
@@ -126,7 +126,7 @@ $(".animatezoomIn").animated("zoomIn","zoomIn");
 // 4.COUNTDOWN
 //================================================================
 
-  $('#getting-countdown').countdown('2017/05/31', function(event) {
+  $('#getting-countdown').countdown('2017/05/06', function(event) {
     $(this).html(event.strftime('<div class="countdown-num"><span>%w</span><p>weeks</p></div><div class="countdown-num"><span>%d</span><p>days</p></div><div class="countdown-num"><span>%H</span><p>hours</p></div><div class="countdown-num"><span>%M</span><p>minuts</p></div><div class="countdown-num"><span>%S</span><p>seconds</p></div>'));
   });
 
